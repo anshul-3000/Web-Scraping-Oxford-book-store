@@ -6,7 +6,9 @@ This project involves web scraping the Oxfordbook Store website to extract infor
 
 ### 📂 Project Structure
 
-\```bash
+## 📂 Project Structure
+
+```bash
 .
 ├── notebooks
 │   └── Oxfordbook_Scraping.ipynb  # Jupyter notebook with the scraping script
@@ -15,8 +17,8 @@ This project involves web scraping the Oxfordbook Store website to extract infor
 ├── scripts
 │   └── scraper.py  # Python script for web scraping
 ├── README.md  # Project documentation
-└── requirements.txt  # Dependencies\
-\```
+└── requirements.txt  # Dependencies
+```
 
 ### 🛠️ Features
 
